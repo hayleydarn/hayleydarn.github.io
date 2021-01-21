@@ -335,12 +335,14 @@ section {
 
 .about .content ul li {
   padding-bottom: 10px;
+  padding-left: 20px;
 }
 
 .about .content ul i {
   font-size: 20px;
   padding-right: 2px;
   color: #149ddd;
+  text-align: center;
 }
 
 .about .content p:last-child {
