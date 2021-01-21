@@ -434,6 +434,21 @@ section {
   background-color: #149ddd;
 }
 
+.icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  list-style: none;
+}
+
+.icon-text {
+  text-align: center;
+}
+
+div > div > ul > li > i {
+  padding: 20px;
+}
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
